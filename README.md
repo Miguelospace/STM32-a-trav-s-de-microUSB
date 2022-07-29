@@ -1,4 +1,4 @@
-#Programar STM32F103CB a través del puerto USB.
+##Programar STM32F103CB a través del puerto USB.
 
 ![Alt text](Imágenes/inicio.jpg)
 
