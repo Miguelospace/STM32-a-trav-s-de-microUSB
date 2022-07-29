@@ -13,8 +13,10 @@ Esta guía está pensada para facilitar la programación del STM32 permitiéndon
 
 \
 **El diagrama de conección se muestra a continuación:**
+
 ![Alt text](https://circuitdigest.com/sites/default/files/circuitdiagram_mic/Circuit-Diagram-for-Blinking-LED-using-STM32.png)
 
+\
 Para programar el STM32 deberemos de colocar el BOOT0 jumper de la posición 0 a la 1 (Programming mode)
 
 Boot 1 (Programming mode)
