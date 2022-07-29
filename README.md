@@ -1,4 +1,4 @@
-##Programar STM32F103CB a través del puerto USB.
+# Programar STM32F103CB a través del puerto USB.
 
 ![Alt text](Imágenes/inicio.jpg)
 
@@ -88,4 +88,4 @@ Dentro del IDE de Arduino, nuestras configuraciones serán las siguientes:
 
 El puerto dependerá de cada uno de nosotros
 
-##Eso ha sido todo, a programar!!
+## Eso ha sido todo, a programar!!
