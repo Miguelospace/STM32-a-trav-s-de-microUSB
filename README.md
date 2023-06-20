@@ -80,7 +80,8 @@ Ahora si podemos desconectarlo de la energía y usar el microUSB.
 ### Arduino IDE Setup
 En las preferencias del IDE, pegaremos esta liga http://dan.drown.org/stm32duino/package_STM32duino_index.json y seleccionaremos OK, iremos al administrador de placas donde buscaremos “STM32F1” e instalaremos.
 
-Y de la carpeta descargada de https://github.com/rogerclarkmelbourne/Arduino_STM32 Buscaremos en la ruta Arduino_STM32-master\drivers\win e instalaremos install_drivers.bat e install_STM_COM_drivers.bat.
+Dentro de la carpeta windrivers del repositorio se encuentran los dos archivos .bat (install_drivers.bat e install_STM_COM_drivers.bat), vamos a instalar los dos archivos. 
+También podremos encontrar estos mismos dentro de https://github.com/rogerclarkmelbourne/Arduino_STM32
 
 \
 Dentro del IDE de Arduino, nuestras configuraciones serán las siguientes:
@@ -88,6 +89,6 @@ Dentro del IDE de Arduino, nuestras configuraciones serán las siguientes:
 ![Alt text](Imágenes/Configs.png)
 
 
-El puerto dependerá de cada uno de nosotros
+El numero de puerto asignado será variable en cada computadora, cada uno tendrá que seleccionar el puerto correspondiente en el IDE.
 
 ## Eso ha sido todo, a programar!!
