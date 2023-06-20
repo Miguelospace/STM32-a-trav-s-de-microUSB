@@ -76,7 +76,6 @@ Sin desconectar su energía pasaremos nuevamente el jumper a la posición 0, par
 Ahora si podemos desconectarlo de la energía y usar el microUSB.
 
 \
-.
 ### Arduino IDE Setup
 En las preferencias del IDE, pegaremos esta liga http://dan.drown.org/stm32duino/package_STM32duino_index.json y seleccionaremos OK, iremos al administrador de placas donde buscaremos “STM32F1” e instalaremos.
 
